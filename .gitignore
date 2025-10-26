@@ -1,3 +1,18 @@
+# FreeFileSync
+.sync.ffs_db
+
+# VScode
+.vscode
+
+# Folders
+*/ham/
+*/spam/
+*lenguaje/Teoria/data/train/
+*lenguaje/Teoria/data/test/
+*/data/dogs_cats/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
